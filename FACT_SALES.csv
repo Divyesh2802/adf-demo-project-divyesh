@@ -1,0 +1,4 @@
+transaction_id,transaction_date,product_id,customer_id,payment_type,price
+1001,2026-05-01,P101,C001,VISA,250
+1002,2026-05-01,P102,C002,MASTERCARD,400
+1003,2026-05-01,P103,C003,CASH,150
